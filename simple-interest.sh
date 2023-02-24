@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <PedriniRC>
+   # <Pedro Razo AKA PedriniRC>
 
    # Input:
    # p, principal amount
